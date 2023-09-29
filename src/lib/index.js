@@ -1,1 +1,5 @@
-// Reexport your entry components here
+import { html } from './html.js'
+
+export { html }
+
+export default html
