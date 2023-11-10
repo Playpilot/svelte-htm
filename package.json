@@ -30,7 +30,6 @@
 		"@sveltejs/kit": "^1.20.4",
 		"@sveltejs/package": "^2.0.0",
 		"@testing-library/svelte": "^4.0.3",
-		"htm": "^3.1.1",
 		"jsdom": "^22.1.0",
 		"publint": "^0.1.9",
 		"svelte": "^4.0.5",
@@ -42,7 +41,8 @@
 	},
 	"dependencies": {
 		"@playpilot/svelte-fragment-component": "^1.0.2",
-		"@playpilot/svelte-hyperscript": "^1.0.3"
+		"@playpilot/svelte-hyperscript": "^1.0.3",
+		"htm": "^3.1.1"
 	},
 	"svelte": "./dist/index.js",
 	"types": "./dist/index.d.ts",
