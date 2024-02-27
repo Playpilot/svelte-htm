@@ -44,6 +44,9 @@
 		"@playpilot/svelte-fragment-component": "^1.0.2",
 		"@playpilot/svelte-hyperscript": "^1.0.3"
 	},
+	"publishConfig": {
+		"registry": "https://npm.pkg.github.com"
+	},
 	"svelte": "./dist/index.js",
 	"types": "./dist/index.d.ts",
 	"type": "module",
